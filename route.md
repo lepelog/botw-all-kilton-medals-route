@@ -1,20 +1,22 @@
 # All Kilton Medals Speedrun route
 
+Note: This route includes the DLC for the ancient saddle, phantom armor, DLC ruby and DLC bomb arrows
+
 ## Rules
 
 Obtain all the Medals (Talus Medal, Hinox Medal, Molduga Medal) from Kilton, to get the Medals you have to beat the game and kill all 40 Hinoxes, 40 Taluses and 4 Moldugas
 
 ## Route
 
-Plateau as normal, but use axe for boulder launch, boxlaunch to 4 speed, register at stable, buy all arrows, S to bridge, over kill talus(1), E, climb up, grab Rushrooms, talus(2), to kakariko, talus(3) on the way
+Plateau as normal, don't get warm doublet, but use axe for boulder launch, boxlaunch to 4 speed, register at stable, buy all arrows, S to bridge, over kill talus(1), E, climb up, talus(2), to kakariko, talus(3), climb up to kakariko, bomb between trees to get wood and apples
 
-chest with phrenic bow, activate shrine, grab hammer behind tree, impa, sell stuff for carrots, arrows and fire arrows, cook 2x5 Carrots for speed, launch to S Dueling Peaks, eat speedfood, more Rushrooms, talus(4), drop down to Hinox(5), kill it with his Knight's Sword, grab Knight's Bow
+glide and climb to chest with phrenic bow, activate shrine, grab hammer behind tree, impa, sell stuff for carrots, arrows and fire arrows, cook 2x5 Carrots for speed, launch to S Dueling Peaks, eat speedfood, Rushroom, talus(4), drop down to Hinox(5), kill it with his Knight's Sword, grab Knight's Bow
 
-climb and run up to the farosh farming point, farm 7 horns (8 shots), get the ice and fire arrows in the E side of the lake, drop down SW to Hinox(6), kill with sword, grab sword and claymore, drop down SE to Talus(7)
+climb and run up to the farosh farming point, farm 6 horns (7 shots), drop down SW to Hinox(6), kill with sword, grab sword and claymore, drop down SE to iron chest with ice arrows, to Talus(7)
 
-glide to bridge and climb up, cook some hearty food at stable, open shrine, climb up, right and drop down to Talus(8), tree carry W, run to blue hinox(9), grab his bow and sword, grab 3 Fleet-Lotus Seeds, slablaunch up to the horse god, grab endura carrots and endurashrooms and ancient saddle, use speedfood and run to stable, activate shrine, cook 3xFleet Lotus 1xSwift Carrot 1xHorn, get horse out, put on ancient saddle
+glide to bridge and climb up, cook some hearty food at stable, open shrine, climb up, right and drop down to Talus(8), tree carry W, run to blue hinox(9), grab his bow, sword and claymore, grab 3 Fleet-Lotus Seeds, slablaunch up to the horse god, grab endura carrots and endurashrooms and ancient saddle, use speedfood and run to stable, activate shrine, cook 3xFleet Lotus 1xSwift Carrot 1xHorn, get horse out, put on ancient saddle
 
-warp to SoR, drop down and run to Talus(10), tree carry up to coliseum and down to phantom helm, treelaunch E to Luminous Talus(11), call horse, ride N to phantom greaves, more N to complete phantom set, E to Blue Hinox(12) next to a guardian stalker, N to Blue Hinox(13) in apple tree woods, N over bridge to Luminous Talus(14), **make night**, W to Hyrule Castle, Stalnox(15), grab his flamespear, to hyrule castle, cryo over, grab fire arrows under breakable rock, tree carry up, left to dining hall
+warp to SoR, drop down and run to Talus(10), tree carry up to coliseum and down to phantom helm, treelaunch E to Luminous Talus(11), use entire stamina for spinattack with soldiers claymore, finish with royal sword, call horse, ride N to phantom greaves, more N to complete phantom set, E to Blue Hinox(12) next to a guardian stalker, N to Blue Hinox(13) in apple tree woods, N over bridge to Luminous Talus(14), **make night**, W to Hyrule Castle, Stalnox(15), grab his flamespear, to hyrule castle, cryo over, grab fire arrows under breakable rock, tree carry up, left to dining hall, dop all bows that aren't the royal bow
 
 (this is like any%) grab royal bow on chandelier, grab rushroom and fleet lotus seed, right magnesis royal guards spear, out of hall, bomb breakable walls for royal guards sword, whistle to distract Moblin, drop down and sneak strike him, grab royal guards bow and royal claymore, pray for good arrows in the boxes, climb up, distract lizalfos with bomb and sneak strike with royal claymore, grab lizal boomerang, back to dining hall, grab hearty truffles, distract moblins with bomb and sneak strike them, grab Stone Smasher, maybe cook more hearty stuff idk, out again but now climb up hyrule castle, grab bomb arrows in castle near trees and on the third wall, climb up to ganon, gl
 
@@ -33,7 +35,7 @@ warp back to Shada Naw, **make night**, launch NWW to Stalnox(38), bomb his eye 
 
 warp to Cryonis, grab Bomb Arrow DLC-Chest and launch W to Luminous Talus(40), run and climb W up to next Luminous Talus(41), more W, treelaunch W to activate Kay Noh, climb S to a wooden box, lauhch up with an arrow to NW Luminous Talus(42) on top of that little mountain, drop and glide down to sand seal, ride to activate gerudo town shrine, ride N to climb the left side of the valley, climb and run N to Luminous Talus(43), run and climb up E and N, get Double Axe from the bear riding boko, climb more NE to Rare Talus(44), climb up W and launch SE to Frost Talus(45), run W and treecarry E, run E, then glide N and run to Frost Talus(46), run E, treelaunch to Satori Mountain, activate shrine launch W to Rare Talus(47), **make night**
 
-warp back to Satori Mountain, Stalnox(48), down SW, save to get 5 shot Forest Dweller's Bow, run up again to launch N to Blue Hinox(49), ride and glide SE to Black Hinox(50)
+warp back to Satori Mountain, Stalnox(48), down SW, save and reload until you get a 5 shot modifier on the Forest Dweller's Bow, run up again to launch N to Blue Hinox(49), ride and glide SE to Black Hinox(50)
 
 warp to Kakariko, run E and more E to Hinox(51), heightlaunch NE to Blue Hinox(52), climb and run SE to Hinox(53), climb and run S to trees, launch S to Talus(54), run to Hateno Village, buy bomb arrows, activate shrine, heightlaunch W past the tower, climb up to Talus(55), **make night**, launch SW to Stalnox(56)
 
